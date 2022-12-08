@@ -13,7 +13,7 @@
         "10": "Nov",
         "11": "Dec"
     },
-    "weekDays": ["S", "M", "T", "W", "T", "F", "S"],
+    "weekDays": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
     "accept": "OK",
     "cancel": "Cancel"
 }
